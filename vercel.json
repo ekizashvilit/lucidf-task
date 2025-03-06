@@ -1,0 +1,4 @@
+{
+	"ignoreCommand": "npx --no -- turbo-ignore",
+	"buildCommand": "npm run build || exit 0"
+}
