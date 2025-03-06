@@ -1,4 +1,4 @@
 {
 	"ignoreCommand": "npx --no -- turbo-ignore",
-	"buildCommand": "npm run build || exit 0"
+	"buildCommand": "CI=false npm run build"
 }
