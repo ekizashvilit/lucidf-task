@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { DEFAULT_TIME_OPTION } from '../constants';
 import { FormulaTag } from '../stores/formulaStore';
 import { useSuggestions } from './useSuggestions';

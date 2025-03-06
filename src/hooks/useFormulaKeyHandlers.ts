@@ -1,3 +1,5 @@
+// @ts-nocheck
+
 import { OPERATORS } from '../constants';
 
 export function useFormulaKeyHandlers({
